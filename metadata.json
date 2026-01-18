@@ -1,0 +1,8 @@
+{
+  "name": "GSD APP-Get_Stuff_Done",
+  "description": "High-fidelity industrial fintech mobile prototype for a campus operating system featuring gear rentals, social squads, and bone-based reward mechanics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
